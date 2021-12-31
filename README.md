@@ -1,4 +1,4 @@
-# CLC Wikipedia Bot
+# Search Wikipedia Bot
 
 ### Installation:
 1. copy `settings/local_settings.example.py` to `settings/local_settings.py`
